@@ -1,1 +1,1 @@
-dsi-sea-week07-3.5
+Let's work on hierarchical_clustering_lab.ipynb.
